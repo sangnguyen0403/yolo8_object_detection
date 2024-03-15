@@ -13,3 +13,4 @@ Original Image        |  Output
 
 
 ## Author
+- Sang Nguyen
